@@ -1,2 +1,1 @@
-sys.usb.rndis.func.name=gsi
-sys.usb.rmnet.func.name=gsi
+persist.sys.usb.config=adb
